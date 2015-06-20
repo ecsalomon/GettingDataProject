@@ -47,4 +47,4 @@ This script will
 7. save a tidy data set containing these means
 
 The following packages are required to run the script successfully:
-* reshape
+* reshape2

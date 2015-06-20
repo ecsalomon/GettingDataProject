@@ -2,10 +2,11 @@
 ###### the Getting and Cleaning Data course (part of the Data Science 
 ###### Specialization on Coursera).
 
-###### Input: 
-###### Output: 
+###### Input: Data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+###### Output: Tidy data set with means of mean and standard deviation variables
+######        by subject and activity
 
-###### Required packages: data.table
+###### Required packages: reshape2
 
 # load required package
 library(reshape2)
